@@ -1,0 +1,19 @@
+{
+  "name": "dejadriftserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://ras-marques@github.com/ras-marques/dejadriftserver.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ras-marques/dejadriftserver/issues"
+  },
+  "homepage": "https://github.com/ras-marques/dejadriftserver#readme"
+}
